@@ -122,7 +122,7 @@
 
 
 <footer class="text-center mt-2 py-5">
-        <p>&copy 2021  <b>Neil</b> </br>Chairman, India Project</p>
+        <p>&copy 2021  <b>Priyansu</b> </br>Chairman, India Project</p>
       </footer>
 
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
