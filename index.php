@@ -94,10 +94,10 @@
 
 <div class="container-fluid">
  <div class ="row">
-<div  class="col-lg-6 col-md-6 col-12">
+<div  class="col-lg-3 col-md-3 col-9">
       <img src="images/home.jpg" class="img-fluid">
       </div>
-      <div  class="col-lg-6 col-md-6 col-12">
+      <div  class="col-lg-3 col-md-3 col-9">
       <h1>India Bank</h1>
       <p1> India Bank is the child of the group India Projects. It is one of the most trust-worthy bank according to the recent survey and has gained more customers than any bank on the market according to recent study.
           India Bank primarily focuses on customer satisfaction, cheap loan rates as well as smoothless transactions across users.
