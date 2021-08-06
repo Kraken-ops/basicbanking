@@ -122,7 +122,7 @@
 
 
 <footer class="text-center mt-2 py-5">
-        <p>August 2021  <b>Priyansu</b> </br>Developer, India Project</p>
+        <p>August 2021  <b>Priyansu Dey</b> </br>Developer, India Project</p>
 
       </footer>
 
