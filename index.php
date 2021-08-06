@@ -113,7 +113,7 @@
 </section>
 <section class= "my-5">
 <div class="py-5">
- <h3 class="text-center" >Disclaimer</h3>
+ <h3 class="text-center" >ReadMe</h3>
  <h5 class="text-center" >  This website is the basic banking system designed to emulate a real banking management system.
 
     This is merely an intern project, not to be taken seriously as the names have just been used as an example to demostrate the project better. The pictures are taken throw a free picture gallery website and is not subjected to any copyright claims. </h5>
@@ -122,8 +122,8 @@
 
 
 <footer class="text-center mt-2 py-5">
-        <p>&copy 2021  <b>Priyansu</b> </br>Chairman, India Project</p>
-      
+        <p>August 2021  <b>Priyansu</b> </br>Developer, India Project</p>
+
       </footer>
 
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
