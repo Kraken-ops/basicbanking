@@ -123,6 +123,7 @@
 
 <footer class="text-center mt-2 py-5">
         <p>&copy 2021  <b>Priyansu</b> </br>Chairman, India Project</p>
+        <a href="https://github.com/Kraken-ops"><i class="fab fa-github" aria-hidden="true"></i></a>
       </footer>
 
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
