@@ -9,7 +9,7 @@
 
 </head>
 <body>
-<body style="background-image : url(images/web2.jpg)">
+<body style="background-image : url(images/web3.jpg)">
 <!-- Navigation bar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
