@@ -82,10 +82,11 @@ if(isset($_POST['submit']))
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <body style="background-image : url(images/home2.jpg)">
 <!-- Navigation bar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">India Bank  </a>
+    <a class="navbar-brand" href="index.php">India Bank  </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -99,7 +100,7 @@ if(isset($_POST['submit']))
           <a class="nav-link active" aria-current="page" href="customers.php">Our Customers</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="https://www.xe.com/currencyconverter/convert/?Amount=20&From=INR&To=EUR">Currency Convertor </a>
+          <a class="nav-link active" aria-current="page" href="https://www.xe.com/currencyconverter/convert/?Amount=20&From=INR&To=EUR">Currency Conversion </a>
         </li>
         
 </div>
@@ -204,7 +205,7 @@ if(isset($_POST['submit']))
         </form>
     </div>
     <footer class="text-center mt-5 py-2">
-            <p>&copy 2021 <b>Neil</b> <br> India Poject</p>
+            <p>&copy 2021 <b>Priyansu</b> <br> India Poject</p>
     </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
