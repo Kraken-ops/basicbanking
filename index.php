@@ -58,19 +58,19 @@
     <div class="carousel-item active">
       <img src="images/stack.jpg" alt="Easy Transfer" width="1100" height="500">
       <div class="carousel-caption">
-    <h3>Easy Money Transfer</h3>
+    <h3>Send Money Hassel-free</h3>
     </div>
     </div>
     <div class="carousel-item">
       <img src="images/saving.jpg" alt="Quick Deposit" width="1100" height="500">
       <div class="carousel-caption  d-none d-md-block">
-    <h3>Quick Personal Loans</h3>
+    <h3>Easy withdrawals and deposits</h3>
     </div>
     </div>
     <div class="carousel-item">
       <img src="images/business.jpg" alt="Low interests" width="1100" height="500">
       <div class="carousel-caption">
-    <h3>Customer Satisfaction</h3>
+    <h3>Check balance anytime anywhere</h3>
     </div>
     </div>
   </div>
@@ -89,7 +89,7 @@
 
 <section class= "my-5">
 <div class="py-5">
- <h3 class="text-center" >About Us</h3>
+ <h3 class="text-center" >About </h3>
  </div>
 
 <div class="container-fluid">
@@ -114,9 +114,9 @@
 <section class= "my-5">
 <div class="py-5">
  <h3 class="text-center" >Disclaimer</h3>
- <p1>  This website is the basic banking system designed to emulate a real banking management system.
+ <h5 class="text-center" >  This website is the basic banking system designed to emulate a real banking management system.
 
-    This is merely an intern project, not to be taken seriously as the names have just been used as an example to demostrate the project better. The pictures are taken throw a free picture gallery website and is not subjected to any copyright claims.</p1>
+    This is merely an intern project, not to be taken seriously as the names have just been used as an example to demostrate the project better. The pictures are taken throw a free picture gallery website and is not subjected to any copyright claims. </h5>
  </div>
 
 
